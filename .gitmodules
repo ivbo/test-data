@@ -2,3 +2,6 @@
 	path = hr
 	url = git@github.com:OCA/hr.git
 	branch = 13.0
+[submodule "project"]
+	path = project
+	url = https://github.com/OCA/project.git
