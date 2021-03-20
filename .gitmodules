@@ -8,3 +8,7 @@
 [submodule "crm"]
 	path = crm
 	url = https://github.com/OCA/crm.git
+[submodule "knowledge"]
+	path = knowledge
+	url = https://github.com/OCA/knowledge.git
+	branch = 13.0
