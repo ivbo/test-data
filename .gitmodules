@@ -1,4 +1,4 @@
 [submodule "hr"]
-	path = ipsec
+	path = hr
 	url = git@github.com:OCA/hr.git
 	branch = 13.0
